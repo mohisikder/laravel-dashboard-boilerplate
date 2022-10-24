@@ -5,7 +5,7 @@
 <ul>
 <li>Laravel 9</li>
 <li>Bootstarp 5</li>
-<li>Fontaswsome 4</li>
+<li>Font Awesome 4</li>
 </ul>
 
 ## Authentication (laravel breeze)
