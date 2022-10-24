@@ -1,7 +1,7 @@
 ## Laravel admin dashboard boilerplate
 <p>version : 0.0.1 </p>
 
-## Framework
+## Framework and Package/Library
 <ul>
 <li>Laravel 9</li>
 <li>Bootstarp 5</li>
